@@ -1,0 +1,4 @@
+{
+    "_comment": "To ON the mail notifications flag, set the flag to true and to OFF the mail notifications flag, set the flag to false",
+    "flag" : true
+}
