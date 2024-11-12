@@ -20,12 +20,7 @@ import os
 def get_latest_videos(url):
     
     cookies = {
-        'GPS': '1',
-        'YSC': 'BlEjSpS7BHQ',
-        'VISITOR_INFO1_LIVE': 'vIqUhmNhAEw',
-        'VISITOR_PRIVACY_METADATA': 'CgJQSxIEGgAgVg%3D%3D',
-        'SOCS': 'CAISNQgDEitib3FfaWRlbnRpdHlmcm9udGVuZHVpc2VydmVyXzIwMjMwODI5LjA3X3AxGgJlbiADGgYIgJnPpwY',
-        'PREF': 'f6=40000000&tz=Asia.Karachi',
+
     }
 
     headers = {
